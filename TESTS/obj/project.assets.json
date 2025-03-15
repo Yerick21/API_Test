@@ -5463,11 +5463,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yerickgonzalez/Desktop/API_Test/API_Test.csproj",
+      "projectUniqueName": "/Users/yerickgonzalez/Desktop/TESTS/API_Test-1/TESTS/API_Test.csproj",
       "projectName": "API_Test",
-      "projectPath": "/Users/yerickgonzalez/Desktop/API_Test/API_Test.csproj",
+      "projectPath": "/Users/yerickgonzalez/Desktop/TESTS/API_Test-1/TESTS/API_Test.csproj",
       "packagesPath": "/Users/yerickgonzalez/.nuget/packages/",
-      "outputPath": "/Users/yerickgonzalez/Desktop/API_Test/obj/",
+      "outputPath": "/Users/yerickgonzalez/Desktop/TESTS/API_Test-1/TESTS/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yerickgonzalez/.nuget/NuGet/NuGet.Config"
